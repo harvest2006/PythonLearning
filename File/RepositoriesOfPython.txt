@@ -1,0 +1,181 @@
+
+
+Name: public-apis
+Owner: public-apis
+Starts: 77531
+Repository: https://github.com/public-apis/public-apis
+Description: A collective list of free APIs for use in software and web development.
+
+Name: youtube-dl
+Owner: ytdl-org
+Starts: 64280
+Repository: https://github.com/ytdl-org/youtube-dl
+Description: Command-line program to download videos from YouTube.com and other video sites
+
+Name: models
+Owner: tensorflow
+Starts: 63033
+Repository: https://github.com/tensorflow/models
+Description: Models and examples built with TensorFlow
+
+Name: flask
+Owner: pallets
+Starts: 49856
+Repository: https://github.com/pallets/flask
+Description: The Python micro framework for building web applications.
+
+Name: keras
+Owner: keras-team
+Starts: 47722
+Repository: https://github.com/keras-team/keras
+Description: Deep Learning for humans
+
+Name: httpie
+Owner: jakubroztocil
+Starts: 46383
+Repository: https://github.com/jakubroztocil/httpie
+Description: As easy as HTTPie /aitch-tee-tee-pie/  🥧 Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.  https://twitter.com/clihttp
+
+Name: awesome-machine-learning
+Owner: josephmisiti
+Starts: 44188
+Repository: https://github.com/josephmisiti/awesome-machine-learning
+Description: A curated list of awesome Machine Learning frameworks, libraries and software.
+
+Name: ansible
+Owner: ansible
+Starts: 42632
+Repository: https://github.com/ansible/ansible
+Description: Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applications — automate in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com/ansible/
+
+Name: scikit-learn
+Owner: scikit-learn
+Starts: 40177
+Repository: https://github.com/scikit-learn/scikit-learn
+Description: scikit-learn: machine learning in Python
+
+Name: scrapy
+Owner: scrapy
+Starts: 36735
+Repository: https://github.com/scrapy/scrapy
+Description: Scrapy, a fast high-level web crawling & scraping framework for Python.
+
+Name: big-list-of-naughty-strings
+Owner: minimaxir
+Starts: 35577
+Repository: https://github.com/minimaxir/big-list-of-naughty-strings
+Description: The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.
+
+Name: face_recognition
+Owner: ageitgey
+Starts: 33508
+Repository: https://github.com/ageitgey/face_recognition
+Description: The world's simplest facial recognition api for Python and the command line
+
+Name: core
+Owner: home-assistant
+Starts: 32617
+Repository: https://github.com/home-assistant/core
+Description: :house_with_garden: Open source home automation that puts local control and privacy first
+
+Name: shadowsocks
+Owner: shadowsocks
+Starts: 32543
+Repository: https://github.com/shadowsocks/shadowsocks
+Description: None
+
+Name: you-get
+Owner: soimort
+Starts: 32075
+Repository: https://github.com/soimort/you-get
+Description: :arrow_double_down: Dumb downloader that scrapes the web
+
+Name: cpython
+Owner: python
+Starts: 30380
+Repository: https://github.com/python/cpython
+Description: The Python programming language
+
+Name: faceswap
+Owner: deepfakes
+Starts: 29947
+Repository: https://github.com/deepfakes/faceswap
+Description: Deepfakes Software For All
+
+Name: 12306
+Owner: testerSunshine
+Starts: 28414
+Repository: https://github.com/testerSunshine/12306
+Description: 12306智能刷票，订票
+
+Name: incubator-superset
+Owner: apache
+Starts: 28368
+Repository: https://github.com/apache/incubator-superset
+Description: Apache Superset (incubating) is a modern, enterprise-ready business intelligence web application
+
+Name: 100-Days-Of-ML-Code
+Owner: Avik-Jain
+Starts: 28293
+Repository: https://github.com/Avik-Jain/100-Days-Of-ML-Code
+Description: 100 Days of ML Coding
+
+Name: CppCoreGuidelines
+Owner: isocpp
+Starts: 26844
+Repository: https://github.com/isocpp/CppCoreGuidelines
+Description: The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++
+
+Name: Deep-Learning-Papers-Reading-Roadmap
+Owner: floodsung
+Starts: 25967
+Repository: https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap
+Description: Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!
+
+Name: interview_internal_reference
+Owner: 0voice
+Starts: 25640
+Repository: https://github.com/0voice/interview_internal_reference
+Description: 2019年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。
+
+Name: pandas
+Owner: pandas-dev
+Starts: 24379
+Repository: https://github.com/pandas-dev/pandas
+Description: Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
+
+Name: python-patterns
+Owner: faif
+Starts: 24365
+Repository: https://github.com/faif/python-patterns
+Description: A collection of design patterns/idioms in Python
+
+Name: AiLearning
+Owner: apachecn
+Starts: 24269
+Repository: https://github.com/apachecn/AiLearning
+Description: AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP
+
+Name: localstack
+Owner: localstack
+Starts: 23982
+Repository: https://github.com/localstack/localstack
+Description: 💻  A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!
+
+Name: jieba
+Owner: fxsjy
+Starts: 22520
+Repository: https://github.com/fxsjy/jieba
+Description: 结巴中文分词
+
+Name: bert
+Owner: google-research
+Starts: 22438
+Repository: https://github.com/google-research/bert
+Description: TensorFlow code and pre-trained models for BERT
+
+Name: linux-insides
+Owner: 0xAX
+Starts: 21030
+Repository: https://github.com/0xAX/linux-insides
+Description: A little bit about a linux kernel
